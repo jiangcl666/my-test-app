@@ -1,2 +1,2 @@
-# my-test-app
-test  app
+# snake
+html css js 简易实现贪吃蛇
